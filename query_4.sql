@@ -1,0 +1,1 @@
+SELECT AVG(riting) AS avg_riting FROM ritings;
